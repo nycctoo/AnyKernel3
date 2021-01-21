@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Issacc Kernel by Issacc @telegram
+kernel.string=dannn Kernel by dannn @telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
